@@ -1,0 +1,17 @@
+"""import code
+from lib2to3.pgen2 import token
+
+
+Client ID e4f3aa2b8c924bd28eea0d63e232b944
+Client Secret 100da3e706ee4899bbb335e4d216a2f0
+
+https://accounts.spotify.com/authorize?client_id=e4f3aa2b8c924bd28eea0d63e232b944&response_type=code&redirect_uri=https%3A%2F%2Fgithub.com%2FAvuxon%2FSpotify-Automation&scope=playlist-modify-public%20playlist-modify-private
+
+
+
+curl -H "Authorization: Basic ZTRmM2FhMmI4YzkyNGJkMjhlZWEwZDYzZTIzMmI5NDQ6MTAwZGEzZTcwNmVlNDg5OWJiYjMzNWU0ZDIxNmEyZjA=" -d grant_type=authorization_code -d code=AQAG4Vyvboqq70XylfV-M8BYDws3NNgIjb-qraX0JbOAYOaOOK__mq2pqYvyPqJoqnLq6lvT_x_ssF6yQApobcE8FOCGNjFiG5-In1O8QYWRr2tXRuGl54RN-Gq0ABe6F_Po1QX0HLfKf7A_NuODo75t_mRtb5hpRt8qPTaSkPOLQ5AMM_8VQg6121W-uktSql-f26GW9UBDM1hHgmNyUqO-XRlxK6x3iV2m7NA01vZxzM1XF4sQjBSh6PRtqPMUmw -d redirect_uri=https%3A%2F%2Fgithub.com%2FAvuxon%2FSpotify-Automation https://accounts.spotify.com/api/token
+"""
+
+spotify_token = "BQDFEYcEgx00AHV0mHutEDk53Nt1Wuu-yYPnhMYJRrmIAEFtqfRpn2fiasgjHM-BaANo9UxordGnp1BULNdE_3f3WmIenG-C8Fp2LF_1T4ZmYDFFSrnl4vYZQwq2KlPK6p8F-a1JUcTzsl5lh1hu-h64dxn8PfEDcgPHg5IT8HgDuTJsyvEJxMhpcYOz8JmOvbmTRcFABans56FW9nQiOdZg_JBInfghZZM"
+spotify_user_id = "hvjs4ksita2goo6faa0yvb2rj"
+discover_weekly_id = "37i9dQZEVXcQttqhNfuMFh"
