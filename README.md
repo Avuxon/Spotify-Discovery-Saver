@@ -9,7 +9,7 @@ the end of the week. It also refreshes your API access token so you do not have 
 program even after the token expires every hour. 
 
 Example playlist:
-![example-image](Screen Shot 2022-02-26 at 23.38.07.png)
+![example-image](https://github.com/Avuxon/Spotify-Automation/blob/main/Screen%20Shot%202022-02-26%20at%2023.38.07.png?raw=true)
 
 This program can be scheduled to run in the background weekly using the Windows task scheduler so
 you never have to worry about losing your discovery songs again. 
