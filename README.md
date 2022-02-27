@@ -8,5 +8,8 @@ discover weekly playlist, create a new playlist, and store them so you can keep 
 the end of the week. It also refreshes your API access token so you do not have to edit the 
 program even after the token expires every hour. 
 
-This program can be scheduled to run in the backgroud weekly using the Windows task scheduler so
+Example playlist:
+![example-image](Screen Shot 2022-02-26 at 23.38.07.png)
+
+This program can be scheduled to run in the background weekly using the Windows task scheduler so
 you never have to worry about losing your discovery songs again. 
